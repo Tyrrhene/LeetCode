@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tyrrhene/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Tyrrhene/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Tyrrhene/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Tyrrhene/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Tyrrhene/LeetCode/tree/master/0190-reverse-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Tyrrhene/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Tyrrhene/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
