@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Tyrrhene/LeetCode/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/Tyrrhene/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Tyrrhene/LeetCode/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Tyrrhene/LeetCode/tree/master/0217-contains-duplicate) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Tyrrhene/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Tyrrhene/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
