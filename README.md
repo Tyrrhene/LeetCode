@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tyrrhene/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tyrrhene/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Tyrrhene/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Tyrrhene/LeetCode/tree/master/0189-rotate-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tyrrhene/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tyrrhene/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Tyrrhene/LeetCode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tyrrhene/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Tyrrhene/LeetCode/tree/master/0217-contains-duplicate) |
 ## Brainteaser
 |  |
