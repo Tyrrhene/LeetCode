@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tyrrhene/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Tyrrhene/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Tyrrhene/LeetCode/tree/master/0217-contains-duplicate) |
+| [0495-teemo-attacking](https://github.com/Tyrrhene/LeetCode/tree/master/0495-teemo-attacking) |
 | [0733-flood-fill](https://github.com/Tyrrhene/LeetCode/tree/master/0733-flood-fill) |
 ## Two Pointers
 |  |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Tyrrhene/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/Tyrrhene/LeetCode/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
