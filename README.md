@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tyrrhene/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Tyrrhene/LeetCode/tree/master/0217-contains-duplicate) |
 | [0495-teemo-attacking](https://github.com/Tyrrhene/LeetCode/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/Tyrrhene/LeetCode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Tyrrhene/LeetCode/tree/master/0733-flood-fill) |
 ## Two Pointers
 |  |
@@ -114,4 +115,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Tyrrhene/LeetCode/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/Tyrrhene/LeetCode/tree/master/0682-baseball-game) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Tyrrhene/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
