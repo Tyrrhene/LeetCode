@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Tyrrhene/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Tyrrhene/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Tyrrhene/LeetCode/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Tyrrhene/LeetCode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Tyrrhene/LeetCode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/Tyrrhene/LeetCode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/Tyrrhene/LeetCode/tree/master/0575-distribute-candies) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tyrrhene/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Tyrrhene/LeetCode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/Tyrrhene/LeetCode/tree/master/0389-find-the-difference) |
 ## Brainteaser
 |  |
 | ------- |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Tyrrhene/LeetCode/tree/master/0682-baseball-game) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Tyrrhene/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
